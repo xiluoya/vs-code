@@ -1,0 +1,939 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Claude//2026 Lectionary Reformatted//ZH-TW
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:2026 主日经课与崇拜资料
+BEGIN:VEVENT
+UID:0820ed76516f5545037479e5fd45757acb3c8405@2026-lectionary.local
+DTSTAMP:20260526T000000Z
+DTSTART;VALUE=DATE:20260104
+DTEND;VALUE=DATE:20260105
+SUMMARY:立约主日/圣诞节后第二主日
+DESCRIPTION:节期：圣诞节期\n教会年：甲年（马太年）\n礼
+ 仪颜色：白\n重点经文：\n- 宣召或始礼经文 申 26:17-18 白
+ \n立约主日\n- 经课一(以旧约为主) 出 24:3-11 立约的血\n- 
+ 启应文(回应经课一) 耶 31:31-34 新造的心\n- 经课二(以书
+ 信为主) 罗 12:1-2 成为活祭\n- 福音经课(马太福音为主) 约
+  15:1-10 耶稣是真葡萄树\n圣诞节后第二主日\n- 经课一(以
+ 旧约为主) 耶 31:7-14 以色列必复兴\n- 或 便西拉智训 24:1-1
+ 2 智慧在上主的子民中间\n- 启应文(回应经课一) 诗 147:12-
+ 20 敬畏主者为其所悦\n- 或 所罗门智训 10:15-21 赞美圣名\n
+ - 经课二(以书信为主) 弗 1:3-14 蒙救赎的恩\n- 福音经课(
+ 马太福音为主) 约 1:(1-9)\,10-18 施洗约翰为真光做见证卫
+ 理宗立约更新崇拜的传统（摘录）
+CATEGORIES:圣诞节期\,白\,甲年（马太年）
+END:VEVENT
+BEGIN:VEVENT
+UID:d1b54a4a35b58643cd2e119d4a0c20a7d4107b2e@2026-lectionary.local
+DTSTAMP:20260526T000000Z
+DTSTART;VALUE=DATE:20260106
+DTEND;VALUE=DATE:20260107
+SUMMARY:显现节（非主日节庆）
+DESCRIPTION:节期：显现期\n教会年：甲年（马太年）\n礼仪
+ 颜色：白\n重点经文：\n- 宣召或始礼经文 玛 3:1 白\n- 经
+ 课一(以旧约为主) 赛 60:1-6 万国都来朝见光\n- 启应文(回
+ 应经课一) 诗 72:1-7\,10-14 万膝都要跪拜\n- 经课二(以书信
+ 为主) 弗 3:1-12 福音给所有人的应许\n- 福音经课(马太福
+ 音为主) 太 2:1-12 基督向万国显现
+CATEGORIES:显现期\,白\,甲年（马太年）
+END:VEVENT
+BEGIN:VEVENT
+UID:209efecc12662b83ca91b7a3dbbf855e75d5b288@2026-lectionary.local
+DTSTAMP:20260526T000000Z
+DTSTART;VALUE=DATE:20260111
+DTEND;VALUE=DATE:20260112
+SUMMARY:主受洗日∕显现节后第一主日
+DESCRIPTION:节期：显现期\n教会年：甲年（马太年）\n礼仪
+ 颜色：白\n重点经文：\n- 宣召或始礼经文 太 3:16-17 白\n- 
+ 经课一(以旧约为主) 赛 42:1-9 上帝的仆人带来公义\n- 启
+ 应文(回应经课一) 诗 29 耶和华的声音发在水上\n- 经课二
+ (以书信为主) 徒 10:34-43 耶稣受洗之后的宣教工作\n- 福音
+ 经课(马太福音为主) 太 3:13-17 基督显明自己是上帝的仆
+ 人
+CATEGORIES:显现期\,白\,甲年（马太年）
+END:VEVENT
+BEGIN:VEVENT
+UID:da91fd1abdcd027a4255120d6ef0f53f496b2ca5@2026-lectionary.local
+DTSTAMP:20260526T000000Z
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+SUMMARY:显现节后第二主日
+DESCRIPTION:节期：显现期\n教会年：甲年（马太年）\n礼仪
+ 颜色：绿\n重点经文：\n- 宣召或始礼经文 诗 66:1-4 绿\n- 
+ 经课一(以旧约为主) 赛 49:1-7 仆人将光带给万国\n- 启应
+ 文(回应经课一) 诗 40:1-11 照上帝的旨意而行\n- 经课二(以
+ 书信为主) 林前 1:1-9 保罗对哥林多教会的问候\n- 福音经
+ 课(马太福音为主) 约 1:29-42 基督显明为上帝的羔羊
+CATEGORIES:显现期\,绿\,甲年（马太年）
+END:VEVENT
+BEGIN:VEVENT
+UID:98d04bcefae04bb701b2c07fd8b87fb23a58d0dd@2026-lectionary.local
+DTSTAMP:20260526T000000Z
+DTSTART;VALUE=DATE:20260125
+DTEND;VALUE=DATE:20260126
+SUMMARY:显现节后第三主日
+DESCRIPTION:节期：显现期\n教会年：甲年（马太年）\n礼仪
+ 颜色：绿\n重点经文：\n- 宣召或始礼经文 诗 96:1-2 绿\n- 
+ 经课一(以旧约为主) 赛 9:1-4 光照耀在黑暗中的人\n- 启应
+ 文(回应经课一) 诗 27:1\,4-9 上帝是光与拯救\n- 经课二(以
+ 书信为主) 林前 1:10-18 呼吁在福音里合一\n- 福音经课(马
+ 太福音为主) 太 4:12-23 基督显明为先知
+CATEGORIES:显现期\,绿\,甲年（马太年）
+END:VEVENT
+BEGIN:VEVENT
+UID:4bcad8c01945ca33ea21b68e5850bb953779b150@2026-lectionary.local
+DTSTAMP:20260526T000000Z
+DTSTART;VALUE=DATE:20260201
+DTEND;VALUE=DATE:20260202
+SUMMARY:显现节后第四主日
+DESCRIPTION:节期：显现期\n教会年：甲年（马太年）\n礼仪
+ 颜色：绿\n重点经文：\n- 宣召或始礼经文 诗 106:47 绿\n- 
+ 经课一(以旧约为主) 弥 6:1-8 行公义，好怜悯，存谦卑的
+ 心\n- 启应文(回应经课一) 诗 15 在上帝的圣山长久不变\n-
+  经课二(以书信为主) 林前 1:18-31 基督被钉十字是上帝的
+ 大能\n- 福音经课(马太福音为主) 太 5:1-12 基督的教导：
+ 八福
+CATEGORIES:显现期\,绿\,甲年（马太年）
+END:VEVENT
+BEGIN:VEVENT
+UID:77d76d0f249caa942acde39b2fe0ab63a29e926e@2026-lectionary.local
+DTSTAMP:20260526T000000Z
+DTSTART;VALUE=DATE:20260208
+DTEND;VALUE=DATE:20260209
+SUMMARY:显现节后第五主日
+DESCRIPTION:节期：显现期\n教会年：甲年（马太年）\n礼仪
+ 颜色：绿\n重点经文：\n- 宣召或始礼经文 诗 95:6-7 绿\n- 
+ 经课一(以旧约为主) 赛 58:1-12 上帝所拣选的禁食\n- 启应
+ 文(回应经课一) 诗 112:1-10 光照进黑暗中\n- 经课二(以书
+ 信为主) 林前 2:1-16 上帝的智慧藉著圣灵显明\n- 福音经课
+ (马太福音为主) 太 5:13-20 基督的教导：盐和光
+CATEGORIES:显现期\,绿\,甲年（马太年）
+END:VEVENT
+BEGIN:VEVENT
+UID:46b66a6ca1318c9b31d544ff1cd210be0d90557c@2026-lectionary.local
+DTSTAMP:20260526T000000Z
+DTSTART;VALUE=DATE:20260215
+DTEND;VALUE=DATE:20260216
+SUMMARY:登山变相主日
+DESCRIPTION:节期：显现期\n教会年：甲年（马太年）\n礼仪
+ 颜色：白\n重点经文：\n- 宣召或始礼经文 诗 27:8-9 白\n- 
+ 经课一(以旧约为主) 出 24:12-18 摩西进入上帝荣耀的云彩\
+ n- 启应文(回应经课一) 诗 2 上帝之子\n- 或 诗99:1-9 在他
+ 的圣山敬拜上帝\n- 经课二(以书信为主) 彼后 1:16-21 照耀
+ 著上帝的荣耀\n- 福音经课(马太福音为主) 太 17:1-9 基督
+ 显明是上帝的爱子
+CATEGORIES:显现期\,白\,甲年（马太年）
+END:VEVENT
+BEGIN:VEVENT
+UID:b674ff86dbc54410a7e72717740d1c2dfc37618e@2026-lectionary.local
+DTSTAMP:20260526T000000Z
+DTSTART;VALUE=DATE:20260218
+DTEND;VALUE=DATE:20260219
+SUMMARY:圣灰日（非主日节庆）
+DESCRIPTION:节期：大斋期\n教会年：甲年（马太年）\n日期
+ 说明：星期三\n重点经文：\n- 经课一(以旧约为主) 珥 2:1-
+ 2\,12-17 归回上帝/或赛58:1-12 上主所要的禁食\n- 启应文(回
+ 应经课一) 诗 51:1-17 请求怜悯\n- 经课二(以书信为主) 林
+ 后 5:20b-6:10 现在正是救赎的日子\n- 福音经课(马太福音为
+ 主) 太 6:1-6\,16-21 信心的操练
+CATEGORIES:大斋期\,甲年（马太年）
+END:VEVENT
+BEGIN:VEVENT
+UID:19187cf4e3ef68d811d2fe3009dbce67eadc7d3f@2026-lectionary.local
+DTSTAMP:20260526T000000Z
+DTSTART;VALUE=DATE:20260222
+DTEND;VALUE=DATE:20260223
+SUMMARY:大斋期第一主日
+DESCRIPTION:节期：大斋期\n教会年：甲年（马太年）\n礼仪
+ 颜色：紫\n重点经文：\n- 宣召或始礼经文 诗 91:15-16 紫\n-
+  经课一(以旧约为主) 创 2:15-17\; 3:1-7 吃了智慧树的果子\n
+ - 启应文(回应经课一) 诗 32 怜悯环绕我们\n- 经课二(以书
+ 信为主) 罗 5:12-19 死亡来了之后，生命临到\n- 福音经课(
+ 马太福音为主) 太 4:1-11 耶稣受试探
+CATEGORIES:大斋期\,紫\,甲年（马太年）
+END:VEVENT
+BEGIN:VEVENT
+UID:033ec0f39c3a2c599351717685d733bef502bcaa@2026-lectionary.local
+DTSTAMP:20260526T000000Z
+DTSTART;VALUE=DATE:20260301
+DTEND;VALUE=DATE:20260302
+SUMMARY:大斋期第二主日
+DESCRIPTION:节期：大斋期\n教会年：甲年（马太年）\n礼仪
+ 颜色：紫\n重点经文：\n- 宣召或始礼经文 诗 27:8-9 紫\n- 
+ 经课一(以旧约为主) 创 12:1-4a 上帝的祝福临到亚伯兰\n- 
+ 启应文(回应经课一) 诗 121 上帝看顾你\n- 经课二(以书信
+ 为主) 罗 4:1-5\,13-17 对于亚伯拉罕信心的应许\n- 福音经课
+ (马太福音为主) 约 3:1-17 基督的使命：拯救世界- 或 太17:
+ 1-9 这是我的爱子
+CATEGORIES:大斋期\,紫\,甲年（马太年）
+END:VEVENT
+BEGIN:VEVENT
+UID:fba699c7e7ace0bb33b16b3b31cf41f23ea022fb@2026-lectionary.local
+DTSTAMP:20260526T000000Z
+DTSTART;VALUE=DATE:20260308
+DTEND;VALUE=DATE:20260309
+SUMMARY:大斋期第三主日
+DESCRIPTION:节期：大斋期\n教会年：甲年（马太年）\n礼仪
+ 颜色：紫\n重点经文：\n- 宣召或始礼经文 诗 25:15-16 紫\n-
+  经课一(以旧约为主) 出 17:1-7 从磐石中所出的水\n- 启应
+ 文(回应经课一) 诗 95 拯救的磐石\n- 经课二(以书信为主) 
+ 罗 5:1-11 藉著基督的死与上帝和好\n- 福音经课(马太福音
+ 为主) 约 4:5-42 井旁的妇人
+CATEGORIES:大斋期\,紫\,甲年（马太年）
+END:VEVENT
+BEGIN:VEVENT
+UID:f31a9f390c306cd8fdcdfb7308bce52fd75439b7@2026-lectionary.local
+DTSTAMP:20260526T000000Z
+DTSTART;VALUE=DATE:20260315
+DTEND;VALUE=DATE:20260316
+SUMMARY:大斋期第四主日
+DESCRIPTION:节期：大斋期\n教会年：甲年（马太年）\n礼仪
+ 颜色：紫\n重点经文：\n- 宣召或始礼经文 赛 66:10-11 紫\n-
+  经课一(以旧约为主) 撒上 16:1-13 大卫被拣选及膏立\n- 启
+ 应文(回应经课一) 诗 23 你用油膏了我的头\n- 经课二(以
+ 书信为主) 弗 5:8-14 生活要如光明之子\n- 福音经课(马太
+ 福音为主) 约 9:1-41 生而瞎眼的人
+CATEGORIES:大斋期\,紫\,甲年（马太年）
+END:VEVENT
+BEGIN:VEVENT
+UID:2f7fd2e16deee975600ad7a4b284573f027db18f@2026-lectionary.local
+DTSTAMP:20260526T000000Z
+DTSTART;VALUE=DATE:20260322
+DTEND;VALUE=DATE:20260323
+SUMMARY:大斋期第五主日
+DESCRIPTION:节期：大斋期\n教会年：甲年（马太年）\n礼仪
+ 颜色：紫\n重点经文：\n- 宣召或始礼经文 诗 43:1-2 紫\n- 
+ 经课一(以旧约为主) 结 37:1-14 以色列的枯干骸骨\n- 启应
+ 文(回应经课一) 诗 130 怜悯与救赎\n- 经课二(以书信为主)
+  罗 8:6-11 在圣灵里的生命\n- 福音经课(马太福音为主) 约 
+ 11:1-45 拉撒路恢复生命
+CATEGORIES:大斋期\,紫\,甲年（马太年）
+END:VEVENT
+BEGIN:VEVENT
+UID:c59efe3a63775bc8e0fe0d9f31b7c15fbf529079@2026-lectionary.local
+DTSTAMP:20260526T000000Z
+DTSTART;VALUE=DATE:20260329
+DTEND;VALUE=DATE:20260330
+SUMMARY:棕树主日
+DESCRIPTION:节期：大斋期\n教会年：甲年（马太年）\n礼仪
+ 颜色：紫\n重点经文：\n- 宣召或始礼经文 诗 24:9-10 紫\n- 
+ 经课一(以旧约为主) [棕树主题] 太 21:1-11 耶稣进入耶路
+ 撒冷\n[受难主题] 赛 50:4-9a 顺服受苦的仆人\n- 启应文(回
+ 应经课一) [棕树主题] 诗 118:1-2\,19-29 逾越节赞美诗\n[受
+ 难主题] 诗 31:9-16 心灵愁苦中的祈求\n- 经课二(以书信为
+ 主) 腓 2:5-11 死在十字架上\n- 福音经课(马太福音为主) [
+ 棕树主题] 太 26:14-27:66 基督的受难与死\n[受难主题] 太 26
+ :14-27:66 基督受难史- 或 太27:11-54 基督受难史
+CATEGORIES:大斋期\,紫\,甲年（马太年）
+END:VEVENT
+BEGIN:VEVENT
+UID:f4b7a0edf971e8fc8cc068ab8d5d64e8061d1c2e@2026-lectionary.local
+DTSTAMP:20260526T000000Z
+DTSTART;VALUE=DATE:20260330
+DTEND;VALUE=DATE:20260331
+SUMMARY:圣周一（非主日节庆）
+DESCRIPTION:节期：大斋期\n教会年：甲年（马太年）\n礼仪
+ 颜色：紫\n重点经文：\n- 宣召或始礼经文 诗 35:1-2 紫\n- 
+ 经课一(以旧约为主) 赛 42:1-9 仆人带领公义往前\n- 启应
+ 文(回应经课一) 诗 36:5-11 投靠在祢翅膀的荫下\n- 经课二(
+ 以书信为主) 来 9:11-15 靠著基督宝血赎回永生\n- 福音经
+ 课(马太福音为主) 约 12:1-11 伯大尼的马利亚用香膏膏耶
+ 稣
+CATEGORIES:大斋期\,紫\,甲年（马太年）
+END:VEVENT
+BEGIN:VEVENT
+UID:ec228be770f8600bbd0d230582dade2bc44178d2@2026-lectionary.local
+DTSTAMP:20260526T000000Z
+DTSTART;VALUE=DATE:20260331
+DTEND;VALUE=DATE:20260401
+SUMMARY:圣周二（非主日节庆）
+DESCRIPTION:节期：大斋期\n教会年：甲年（马太年）\n礼仪
+ 颜色：紫\n重点经文：\n- 宣召或始礼经文 诗 27:12 紫\n- 
+ 经课一(以旧约为主) 赛 49:1-7 仆人将救赎带到各地\n- 启
+ 应文(回应经课一) 诗 71:1-14 我从出母胎被祢扶持\n- 经课
+ 二(以书信为主) 林前 1:18-31 基督的十架显出上帝的大能
+ 与智慧\n- 福音经课(马太福音为主) 约 12:20-36 耶稣谈到他
+ 的死
+CATEGORIES:大斋期\,紫\,甲年（马太年）
+END:VEVENT
+BEGIN:VEVENT
+UID:a63f41383b62930c131f5fa6767a8fc884f4f6e0@2026-lectionary.local
+DTSTAMP:20260526T000000Z
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260402
+SUMMARY:圣周三（非主日节庆）
+DESCRIPTION:节期：大斋期\n教会年：甲年（马太年）\n礼仪
+ 颜色：紫\n重点经文：\n- 宣召或始礼经文 腓 2:10\,8\,11 紫
+ \n- 经课一(以旧约为主) 赛 50:4-9a 上帝为仆人辩白\n- 启应
+ 文(回应经课一) 诗 70:1-5 上帝啊，因祢的拯救高兴欢喜\n-
+  经课二(以书信为主) 来 12:1-3 想到基督忍受了十字架的
+ 苦难\n- 福音经课(马太福音为主) 约 13:21-32 耶稣说他将被
+ 出卖
+CATEGORIES:大斋期\,紫\,甲年（马太年）
+END:VEVENT
+BEGIN:VEVENT
+UID:94cfd51a5d6c7533963faf0f821fa59ccac01ded@2026-lectionary.local
+DTSTAMP:20260526T000000Z
+DTSTART;VALUE=DATE:20260402
+DTEND;VALUE=DATE:20260403
+SUMMARY:圣周四（非主日节庆）
+DESCRIPTION:节期：大斋期\n教会年：甲年（马太年）\n礼仪
+ 颜色：紫\n重点经文：\n- 宣召或始礼经文 加 6:14 紫\n- 经
+ 课一(以旧约为主) 出 12:1-14 耶和华的逾越节\n- 启应文(回
+ 应经课一) 诗 116:1-2\,12-19 救恩的杯\n- 经课二(以书信为主
+ ) 林前 11:23-26 表明主的死\n- 福音经课(马太福音为主) 约 
+ 13:1-17\,31b-35 基督的服事:洗脚与晚餐
+CATEGORIES:大斋期\,紫\,甲年（马太年）
+END:VEVENT
+BEGIN:VEVENT
+UID:b0d5e8e45e4930ada5065e3643afa677a273dee8@2026-lectionary.local
+DTSTAMP:20260526T000000Z
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260404
+SUMMARY:受难日（非主日节庆）
+DESCRIPTION:节期：大斋期\n教会年：甲年（马太年）\n礼仪
+ 颜色：黑\n日期说明：星期五\n重点经文：\n- 宣召或始礼
+ 经文 罗 5:7-8 黑\n- 经课一(以旧约为主) 赛 52:13-53:12 受苦
+ 的仆人\n- 启应文(回应经课一) 诗 22:1-31 为甚么离弃我\n- 
+ 经课二(以书信为主) 来 10:16-25 通往上帝的路已开启\n- 或
+  来4:14-16；5:7-9 慈悲的大祭司\n- 福音经课(马太福音为主)
+  约 18:1-19:42 耶稣的受难与死
+CATEGORIES:大斋期\,黑\,甲年（马太年）
+END:VEVENT
+BEGIN:VEVENT
+UID:e5f3d53c0f3a4959f42598e649e683a45477f365@2026-lectionary.local
+DTSTAMP:20260526T000000Z
+DTSTART;VALUE=DATE:20260405
+DTEND;VALUE=DATE:20260406
+SUMMARY:复活主日
+DESCRIPTION:节期：复活期\n教会年：甲年（马太年）\n礼仪
+ 颜色：白\n重点经文：\n- 宣召或始礼经文 路 24:34A 白\n- 
+ 经课一(以旧约为主) 徒 10:34-43 耶稣在第三日复活\n- 或 
+ 耶31:1-6 上主子民的喜乐\n- 启应文(回应经课一) 诗 118:1-2\
+ ,14-24 在这一日，这是耶和华所做的\n- 经课二(以书信为
+ 主) 西 3:1-4 与基督显现在荣耀里\n- 或 徒10:34-43 耶稣第三
+ 日复活\n- 福音经课(马太福音为主) 约 20:1-18 见到基督的
+ 复活\n- 或 太28:1-10 宣告主复活
+CATEGORIES:复活期\,白\,甲年（马太年）
+END:VEVENT
+BEGIN:VEVENT
+UID:1dc9d431735df428b9aa2a3dddef05e50d2f80c7@2026-lectionary.local
+DTSTAMP:20260526T000000Z
+DTSTART;VALUE=DATE:20260412
+DTEND;VALUE=DATE:20260413
+SUMMARY:复活期第二主日
+DESCRIPTION:节期：复活期\n教会年：甲年（马太年）\n礼仪
+ 颜色：白\n重点经文：\n- 宣召或始礼经文 彼前 2:2 白\n- 
+ 经课一(以旧约为主) 徒 2:14a\,22-32 上帝成就对大卫的应许
+ \n- 启应文(回应经课一) 诗 16 满足的喜乐\n- 经课二(以书
+ 信为主) 彼前 1:3-9 重生所带来活泼的盼望\n- 福音经课(马
+ 太福音为主) 约 20:19-31 看见复活基督所受的伤
+CATEGORIES:复活期\,白\,甲年（马太年）
+END:VEVENT
+BEGIN:VEVENT
+UID:68a955f3691d1d95080f44ad772ab2d1ac623c91@2026-lectionary.local
+DTSTAMP:20260526T000000Z
+DTSTART;VALUE=DATE:20260419
+DTEND;VALUE=DATE:20260420
+SUMMARY:复活期第三主日
+DESCRIPTION:节期：复活期\n教会年：甲年（马太年）\n礼仪
+ 颜色：白\n重点经文：\n- 宣召或始礼经文 诗 66:1-2 白\n- 
+ 经课一(以旧约为主) 徒 2:14a\,36-41 藉著受洗领受上帝的应
+ 许\n- 启应文(回应经课一) 诗 116:1-4\,12-19 我要求告上帝\n-
+  经课二(以书信为主) 彼前 1:17-23 重生\n- 福音经课(马太
+ 福音为主) 路 24:13-35 与复活的基督一同吃饼
+CATEGORIES:复活期\,白\,甲年（马太年）
+END:VEVENT
+BEGIN:VEVENT
+UID:2974e379ebd0db1e89d353f27a915bf43980ebd9@2026-lectionary.local
+DTSTAMP:20260526T000000Z
+DTSTART;VALUE=DATE:20260426
+DTEND;VALUE=DATE:20260427
+SUMMARY:复活期第四主日
+DESCRIPTION:节期：复活期\n教会年：甲年（马太年）\n礼仪
+ 颜色：白\n重点经文：\n- 宣召或始礼经文 诗 33:5b-6 白\n- 
+ 经课一(以旧约为主) 徒 2:42-47 信的人都在一处，凡物公
+ 用\n- 启应文(回应经课一) 诗 23 上帝是我们的牧者\n- 经
+ 课二(以书信为主) 彼前 2:19-25 虽然受苦，仍跟随牧人\n- 
+ 福音经课(马太福音为主) 约 10:1-10 基督是牧人
+CATEGORIES:复活期\,白\,甲年（马太年）
+END:VEVENT
+BEGIN:VEVENT
+UID:016095b8bf58bcc41a666cac1afd47c60e1ed4b7@2026-lectionary.local
+DTSTAMP:20260526T000000Z
+DTSTART;VALUE=DATE:20260503
+DTEND;VALUE=DATE:20260504
+SUMMARY:复活期第五主日
+DESCRIPTION:节期：复活期\n教会年：甲年（马太年）\n礼仪
+ 颜色：白\n重点经文：\n- 宣召或始礼经文 诗 98:1-2 白\n- 
+ 经课一(以旧约为主) 徒 7:55-60 司提反的殉道\n- 启应文(回
+ 应经课一) 诗 31:1-5\,15-16 我将我的灵魂交在你手里\n- 经
+ 课二(以书信为主) 彼前 2:2-10 上帝所拣选的人\n- 福音经
+ 课(马太福音为主) 约 14:1-14 基督是道路、真理、生命
+CATEGORIES:复活期\,白\,甲年（马太年）
+END:VEVENT
+BEGIN:VEVENT
+UID:ffdef47796fe147b18b5a72d3f1b1f17ea7243e3@2026-lectionary.local
+DTSTAMP:20260526T000000Z
+DTSTART;VALUE=DATE:20260510
+DTEND;VALUE=DATE:20260511
+SUMMARY:复活期第六主日
+DESCRIPTION:节期：复活期\n教会年：甲年（马太年）\n礼仪
+ 颜色：白\n重点经文：\n- 宣召或始礼经文 赛 48:20 白\n- 
+ 经课一(以旧约为主) 徒 17:22-31 保罗给雅典人的信息\n- 启
+ 应文(回应经课一) 诗 66:8-20 万民哪，在上帝里喜乐\n- 经
+ 课二(以书信为主) 彼前 3:13-22 挪亚的时代，洗礼的象征\n
+ - 福音经课(马太福音为主) 约 14:15-21 我们所爱的基督
+CATEGORIES:复活期\,白\,甲年（马太年）
+END:VEVENT
+BEGIN:VEVENT
+UID:046e89fdb12fdccb7609045a8345b0e81b88610d@2026-lectionary.local
+DTSTAMP:20260526T000000Z
+DTSTART;VALUE=DATE:20260514
+DTEND;VALUE=DATE:20260515
+SUMMARY:基督升天日（非主日节庆）
+DESCRIPTION:节期：复活期\n教会年：甲年（马太年）\n礼仪
+ 颜色：白\n重点经文：\n- 宣召或始礼经文 徒 1:11 白\n- 经
+ 课一(以旧约为主) 徒 1:1-11 耶稣差遣使徒\n- 启应文(回应
+ 经课一) 诗 47 上帝在欢呼中升天\n- 或 诗93 赞美掌权的上
+ 帝\n- 经课二(以书信为主) 弗 1:15-23 看见复活并升天的基
+ 督\n- 福音经课(马太福音为主) 路 24:44-53 耶稣存在于所有
+ 时空中
+CATEGORIES:复活期\,白\,甲年（马太年）
+END:VEVENT
+BEGIN:VEVENT
+UID:60eeee042465e3db5dec8e5b42575920c3a6bbf9@2026-lectionary.local
+DTSTAMP:20260526T000000Z
+DTSTART;VALUE=DATE:20260517
+DTEND;VALUE=DATE:20260518
+SUMMARY:复活期第七主日
+DESCRIPTION:节期：复活期\n教会年：甲年（马太年）\n礼仪
+ 颜色：白\n重点经文：\n- 宣召或始礼经文 彼前 2:9-10 白\n
+ - 经课一(以旧约为主) 徒 1:6-14 伴随耶稣的人同心合意地
+ 恒切祷告\n- 启应文(回应经课一) 诗 68:1-10\,32-35 向上帝歌
+ 唱\n- 经课二(以书信为主) 彼前 4:12-14\; 5:6-11 上帝坚固受
+ 苦的人\n- 福音经课(马太福音为主) 约 17:1-11 基督为门徒
+ 的祷告
+CATEGORIES:复活期\,白\,甲年（马太年）
+END:VEVENT
+BEGIN:VEVENT
+UID:051c5dd9da008164033a2e385feeb4d6756981cb@2026-lectionary.local
+DTSTAMP:20260526T000000Z
+DTSTART;VALUE=DATE:20260524
+DTEND;VALUE=DATE:20260525
+SUMMARY:卫斯理更新主日∕艾德门主日
+DESCRIPTION:节期：圣灵降临期\n教会年：甲年（马太年）\n
+ 礼仪颜色：红\n重点经文：\n- 宣召或始礼经文 彼后 1:4（
+ 分享上帝本性）∕林前 15:57（靠基督得胜） 红\n- 经课一
+ (以旧约为主) 赛 12:1-6 在救恩泉源中欢然取水\n- 启应文(
+ 回应经课一) 诗 130 等候上帝的救赎\n- 经课二(以书信为
+ 主) 罗 5:1-11 靠基督的宝血称义，与上帝和好- 或 徒2:1-21 
+ 圣灵降临\n- 福音经课(马太福音为主) 可 12:28-34a 最大的
+ 诫命- 或 太9:27-30a 大卫之子可怜我吧！- 或 路12:1-12\,17-20
+  不要惧怕，你们比麻雀贵重-
+CATEGORIES:圣灵降临期\,红\,甲年（马太年）
+END:VEVENT
+BEGIN:VEVENT
+UID:be79e9a3b1757f73e2c7a9eea33611bcfcb84835@2026-lectionary.local
+DTSTAMP:20260526T000000Z
+DTSTART;VALUE=DATE:20260524
+DTEND;VALUE=DATE:20260525
+SUMMARY:圣灵降临节∕五旬节
+DESCRIPTION:节期：圣灵降临期\n教会年：甲年（马太年）\n
+ 礼仪颜色：红\n重点经文：\n- 宣召或始礼经文 罗 5:5b\,10:
+ 11 红\n- 经课一(以旧约为主) 徒 2:1-21 被圣灵充满- 或 民11
+ :24-30 上主的灵停留在长老身上\n- 启应文(回应经课一) 诗
+  104:24-34\, 35b 大地的面貌被更新\n- 经课二(以书信为主) 
+ 林前 12:3b-13 不同的恩赐，同一圣灵- 或 徒2:1-21 被圣灵充
+ 满\n- 福音经课(马太福音为主) 约 20:19-23 领受了圣灵- 或 
+ 约7:37-39 活水的江河
+CATEGORIES:圣灵降临期\,红\,甲年（马太年）
+END:VEVENT
+BEGIN:VEVENT
+UID:907d88489552cbc5bccd63244d3eca6e85473cc5@2026-lectionary.local
+DTSTAMP:20260526T000000Z
+DTSTART;VALUE=DATE:20260531
+DTEND;VALUE=DATE:20260601
+SUMMARY:圣三一主日
+DESCRIPTION:节期：圣灵降临期\n教会年：甲年（马太年）\n
+ 礼仪颜色：白\n重点经文：\n- 宣召或始礼经文 诗 117:1-2 
+ 白\n- 经课一(以旧约为主) 创 1:1-2:4a 创造天与地\n- 启应
+ 文(回应经课一) 诗 8 高举你的名\n- 经课二(以书信为主) 
+ 林后 13:11-13 保罗的道别\n- 福音经课(马太福音为主) 太 28
+ :16-20 三一群体的生活
+CATEGORIES:圣灵降临期\,白\,甲年（马太年）
+END:VEVENT
+BEGIN:VEVENT
+UID:10881161fa0ea14d0d447c27ce27a69005812baf@2026-lectionary.local
+DTSTAMP:20260526T000000Z
+DTSTART;VALUE=DATE:20260607
+DTEND;VALUE=DATE:20260608
+SUMMARY:圣灵降临节后第二主日
+DESCRIPTION:节期：圣灵降临期\n教会年：甲年（马太年）\n
+ 礼仪颜色：绿\n重点经文：\n- 宣召或始礼经文 弗 1:17-18 
+ 绿\n- 经课一(以旧约为主) 创 12:1-9 上帝呼召亚伯兰\n- 启
+ 应文(回应经课一) 诗 33:1-12 上帝的选民欢喜快乐\n- 经课
+ 二(以书信为主) 罗 4:13-25 应许因信而实现\n- 福音经课(马
+ 太福音为主) 太 9:9-13\,18-26 呼召马太
+CATEGORIES:圣灵降临期\,绿\,甲年（马太年）
+END:VEVENT
+BEGIN:VEVENT
+UID:8bafab5e8822fdfe0a61498df96d66593cab70c2@2026-lectionary.local
+DTSTAMP:20260526T000000Z
+DTSTART;VALUE=DATE:20260614
+DTEND;VALUE=DATE:20260615
+SUMMARY:圣灵降临节后第三主日
+DESCRIPTION:节期：圣灵降临期\n教会年：甲年（马太年）\n
+ 礼仪颜色：绿\n重点经文：\n- 宣召或始礼经文 弗 1:17-18 
+ 绿\n- 经课一(以旧约为主) 创 18:1-15\,(21:1-7) 亚伯拉罕和撒
+ 拉的呼召\n- 启应文(回应经课一) 诗 116:1-2\,12-19 献上感谢
+ 的祭\n- 经课二(以书信为主) 罗 5:1-8 我们还作罪人时，基
+ 督为我们而死\n- 福音经课(马太福音为主) 太 9:35-10:8 [9-23
+ ] 差派十二使徒
+CATEGORIES:圣灵降临期\,绿\,甲年（马太年）
+END:VEVENT
+BEGIN:VEVENT
+UID:94da53189b3783ae1666cff616364ac60c423f3a@2026-lectionary.local
+DTSTAMP:20260526T000000Z
+DTSTART;VALUE=DATE:20260621
+DTEND;VALUE=DATE:20260622
+SUMMARY:圣灵降临节后第四主日
+DESCRIPTION:节期：圣灵降临期\n教会年：甲年（马太年）\n
+ 礼仪颜色：绿\n重点经文：\n- 宣召或始礼经文 诗 66:4 绿\
+ n- 经课一(以旧约为主) 创 21:8-21 救了夏甲与他的儿子以
+ 实玛利\n- 启应文(回应经课一) 诗 86:1-10\, 16-17 求拯救的
+ 祷告\n- 经课二(以书信为主) 罗 6:1b-11 藉著受洗与基督同
+ 埋葬同复活\n- 福音经课(马太福音为主) 太 10:24-39 成为门
+ 徒的代价
+CATEGORIES:圣灵降临期\,绿\,甲年（马太年）
+END:VEVENT
+BEGIN:VEVENT
+UID:61e5adca088f1c97bb15d2595089261fcb3ec708@2026-lectionary.local
+DTSTAMP:20260526T000000Z
+DTSTART;VALUE=DATE:20260628
+DTEND;VALUE=DATE:20260629
+SUMMARY:圣灵降临节后第五主日
+DESCRIPTION:节期：圣灵降临期\n教会年：甲年（马太年）\n
+ 礼仪颜色：绿\n重点经文：\n- 宣召或始礼经文 诗 96:1\,6 
+ 绿\n- 经课一(以旧约为主) 创 22:1-14 亚伯拉罕的考验\n- 启
+ 应文(回应经课一) 诗 13 你忘记我要到几时呢？\n- 经课二
+ (以书信为主) 罗 6:12-23 不在律法之下，乃在恩典之下\n- 
+ 福音经课(马太福音为主) 太 10:40-42 接待基督所差的就是
+ 接待基督
+CATEGORIES:圣灵降临期\,绿\,甲年（马太年）
+END:VEVENT
+BEGIN:VEVENT
+UID:3d0445dee5db2ab2d284cabfd2a69badff01ede6@2026-lectionary.local
+DTSTAMP:20260526T000000Z
+DTSTART;VALUE=DATE:20260705
+DTEND;VALUE=DATE:20260706
+SUMMARY:圣灵降临节后第六主日
+DESCRIPTION:节期：圣灵降临期\n教会年：甲年（马太年）\n
+ 礼仪颜色：绿\n重点经文：\n- 宣召或始礼经文 诗 106:47 
+ 绿\n- 经课一(以旧约为主) 创 24:34-38\, 42-49\, 58-67 以撒与
+ 利百加的婚姻\n- 启应文(回应经课一) 诗 45:10-17 上帝恩膏
+ 你\n- 或 歌2:8-13 爱之歌\n- 经课二(以书信为主) 罗 7:15-25a 
+ 与里面的我交战\n- 福音经课(马太福音为主) 太 11:16-19\, 2
+ 5-30 门徒所负的轭
+CATEGORIES:圣灵降临期\,绿\,甲年（马太年）
+END:VEVENT
+BEGIN:VEVENT
+UID:542b9bb20bd0197d15fbce8d1835ddc0035a3c0c@2026-lectionary.local
+DTSTAMP:20260526T000000Z
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260713
+SUMMARY:圣灵降临节后第七主日
+DESCRIPTION:节期：圣灵降临期\n教会年：甲年（马太年）\n
+ 礼仪颜色：绿\n重点经文：\n- 宣召或始礼经文 诗 95:6-7 
+ 绿\n- 经课一(以旧约为主) 创 25:19-34 以扫把长子的名分卖
+ 给雅各\n- 启应文(回应经课一) 诗 119:105-112 你的话是我脚
+ 前的灯\n- 经课二(以书信为主) 罗 8:1-11 随从圣灵而活\n- 
+ 福音经课(马太福音为主) 太 13:1-9\, 18-23 撒种的比喻
+CATEGORIES:圣灵降临期\,绿\,甲年（马太年）
+END:VEVENT
+BEGIN:VEVENT
+UID:c088cdeeca982ad7b5f747bd89236d5d085b8200@2026-lectionary.local
+DTSTAMP:20260526T000000Z
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260720
+SUMMARY:圣灵降临节后第八主日
+DESCRIPTION:节期：圣灵降临期\n教会年：甲年（马太年）\n
+ 礼仪颜色：绿\n重点经文：\n- 宣召或始礼经文 诗 31:3-4 
+ 绿\n- 经课一(以旧约为主) 创 28:10-19a 雅各的梦与梯子\n- 
+ 启应文(回应经课一) 诗 139:1-12\, 23-24 你深知我一切\n- 经
+ 课二(以书信为主) 罗 8:12-25 显出上帝的儿女\n- 福音经课(
+ 马太福音为主) 太 13:24-30\, 36-43 稗子的比喻
+CATEGORIES:圣灵降临期\,绿\,甲年（马太年）
+END:VEVENT
+BEGIN:VEVENT
+UID:1361a8b3c30019b5cd0b91835ecc46e51358a4e3@2026-lectionary.local
+DTSTAMP:20260526T000000Z
+DTSTART;VALUE=DATE:20260726
+DTEND;VALUE=DATE:20260727
+SUMMARY:圣灵降临节后第九主日
+DESCRIPTION:节期：圣灵降临期\n教会年：甲年（马太年）\n
+ 礼仪颜色：绿\n重点经文：\n- 宣召或始礼经文 诗 13:6 绿\
+ n- 经课一(以旧约为主) 创 29:15-28 利亚与拉结\n- 启应文(
+ 回应经课一) 诗 105:1-11\, 45b 感谢上帝- 或 诗128 敬畏耶和
+ 华必要蒙福\n- 经课二(以书信为主) 罗 8:26-39 无法将上帝
+ 的爱与我们分开\n- 福音经课(马太福音为主) 太 13:31-33\, 4
+ 4-52 天国的比喻
+CATEGORIES:圣灵降临期\,绿\,甲年（马太年）
+END:VEVENT
+BEGIN:VEVENT
+UID:b383fb14ba80c2e4a4cdfe62d2ac96ec5d9985bc@2026-lectionary.local
+DTSTAMP:20260526T000000Z
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260803
+SUMMARY:圣灵降临节后第十主日
+DESCRIPTION:节期：圣灵降临期\n教会年：甲年（马太年）\n
+ 礼仪颜色：绿\n重点经文：\n- 宣召或始礼经文 诗 18:19-20 
+ 绿\n- 经课一(以旧约为主) 创 32:22-31 雅博渡口\n- 启应文(
+ 回应经课一) 诗 17:1-7\,15 我必见你的面\n- 经课二(以书信
+ 为主) 罗 9:1-5 上帝的以色列人民的荣耀\n- 福音经课(马太
+ 福音为主) 太 14:13-21 耶稣喂饱五千人
+CATEGORIES:圣灵降临期\,绿\,甲年（马太年）
+END:VEVENT
+BEGIN:VEVENT
+UID:2155213b69ecc8bd0996ccec690903380a334de0@2026-lectionary.local
+DTSTAMP:20260526T000000Z
+DTSTART;VALUE=DATE:20260809
+DTEND;VALUE=DATE:20260810
+SUMMARY:圣灵降临节后第十一主日
+DESCRIPTION:节期：圣灵降临期\n教会年：甲年（马太年）\n
+ 礼仪颜色：绿\n重点经文：\n- 宣召或始礼经文 诗 25:16-18 
+ 绿\n- 经课一(以旧约为主) 创 37:1-4\,12-28 约瑟被他的兄弟
+ 卖掉\n- 启应文(回应经课一) 诗 105:1-6\,16-22\,45b 记念约瑟\
+ n- 经课二(以书信为主) 罗 10:5-15 信心的道\n- 福音经课(马
+ 太福音为主) 太 14:22-33 耶稣走在海面上
+CATEGORIES:圣灵降临期\,绿\,甲年（马太年）
+END:VEVENT
+BEGIN:VEVENT
+UID:f9ccb1365ad5dbd55b9592fcbd67f2d8648734f5@2026-lectionary.local
+DTSTAMP:20260526T000000Z
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260817
+SUMMARY:圣灵降临节后第十二主日
+DESCRIPTION:节期：圣灵降临期\n教会年：甲年（马太年）\n
+ 礼仪颜色：绿\n重点经文：\n- 宣召或始礼经文 诗 27:1-2 
+ 绿\n- 经课一(以旧约为主) 创 45:1-15 约瑟与他的兄弟和好\
+ n- 启应文(回应经课一) 诗 133 和睦同居是何等的美\n- 经
+ 课二(以书信为主) 罗 11:1-2a\,29-32 上帝对所有人的怜悯，
+ 犹太人与外邦人\n- 福音经课(马太福音为主) 太 15:(10-20)\,
+ 21-28 迦南妇人的女儿被医治
+CATEGORIES:圣灵降临期\,绿\,甲年（马太年）
+END:VEVENT
+BEGIN:VEVENT
+UID:42a70afd314982ae3280fbdc65399651059632be@2026-lectionary.local
+DTSTAMP:20260526T000000Z
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260824
+SUMMARY:圣灵降临节后第十三主日
+DESCRIPTION:节期：圣灵降临期\n教会年：甲年（马太年）\n
+ 礼仪颜色：绿\n重点经文：\n- 宣召或始礼经文 诗 27:7\,9 
+ 绿\n- 经课一(以旧约为主) 出 1:8-2:10 上主保全摩西\n- 启
+ 应文(回应经课一) 诗 124 上主保护祂的子民\n- 经课二(以
+ 书信为主) 罗 12:1-8 基督里的新生活\n- 福音经课(马太福
+ 音为主) 太 16:13-20 彼得认耶稣为基督
+CATEGORIES:圣灵降临期\,绿\,甲年（马太年）
+END:VEVENT
+BEGIN:VEVENT
+UID:4d6a959ae728a9dd5d8f209fe772ed866a65efc0@2026-lectionary.local
+DTSTAMP:20260526T000000Z
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260831
+SUMMARY:圣灵降临节后第十四主日
+DESCRIPTION:节期：圣灵降临期\n教会年：甲年（马太年）\n
+ 礼仪颜色：绿\n重点经文：\n- 宣召或始礼经文 诗 28:8-9 
+ 绿\n- 经课一(以旧约为主) 出 3:1-15 上帝呼召摩西\n- 启应
+ 文(回应经课一) 诗 105:1-6\,23-26\,45b 记念摩西\n- 经课二(以
+ 书信为主) 罗 12:9-21 总要尽力与众人和睦\n- 福音经课(马
+ 太福音为主) 太 16:21-28 耶稣责备彼得
+CATEGORIES:圣灵降临期\,绿\,甲年（马太年）
+END:VEVENT
+BEGIN:VEVENT
+UID:b374486b6b0f9af6592c633afca17e6688b05c52@2026-lectionary.local
+DTSTAMP:20260526T000000Z
+DTSTART;VALUE=DATE:20260906
+DTEND;VALUE=DATE:20260907
+SUMMARY:圣灵降临节后第十五主日
+DESCRIPTION:节期：圣灵降临期\n教会年：甲年（马太年）\n
+ 礼仪颜色：绿\n重点经文：\n- 宣召或始礼经文 诗 47:2 绿\
+ n- 经课一(以旧约为主) 出 12:1-14 逾越节\n- 启应文(回应经
+ 课一) 诗 149 在圣民的会中赞美他\n- 经课二(以书信为主) 
+ 罗 13:8-14 行事为人要端正，好像行在白昼\n- 福音经课(马
+ 太福音为主) 太 18:15-20 信心群体的和好
+CATEGORIES:圣灵降临期\,绿\,甲年（马太年）
+END:VEVENT
+BEGIN:VEVENT
+UID:eb53bfcda4aa1d14341bde7c547e180fa8467c6d@2026-lectionary.local
+DTSTAMP:20260526T000000Z
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+SUMMARY:圣灵降临节后第十六主日
+DESCRIPTION:节期：圣灵降临期\n教会年：甲年（马太年）\n
+ 礼仪颜色：绿\n重点经文：\n- 宣召或始礼经文 诗 48:10-11 
+ 绿\n- 经课一(以旧约为主) 出 14:19-31 以色列在红海被拯救
+ \n- 启应文(回应经课一) 诗 114 大地都要震动\n- 或 出15:1b-
+ 11\, 20-21 海水回流之歌\n- 经课二(以书信为主) 罗 14:1-12 
+ 当弟兄姊妹彼此论断时\n- 福音经课(马太福音为主) 太 18:
+ 21-35 饶恕的比喻
+CATEGORIES:圣灵降临期\,绿\,甲年（马太年）
+END:VEVENT
+BEGIN:VEVENT
+UID:00467ed885a5ed9e53154745d33b619c66da4548@2026-lectionary.local
+DTSTAMP:20260526T000000Z
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260921
+SUMMARY:圣灵降临节后第十七主日
+DESCRIPTION:节期：圣灵降临期\n教会年：甲年（马太年）\n
+ 礼仪颜色：绿\n重点经文：\n- 宣召或始礼经文 诗 17:15 绿
+ \n- 经课一(以旧约为主) 出 16:2-15 旷野中的吗哪\n- 启应文
+ (回应经课一) 诗 105:1-6\,37-45 记念旷野\n- 经课二(以书信
+ 为主) 腓 1:21-30 在福音中站立得稳\n- 福音经课(马太福音
+ 为主) 太 20:1-16 葡萄园工人的比喻
+CATEGORIES:圣灵降临期\,绿\,甲年（马太年）
+END:VEVENT
+BEGIN:VEVENT
+UID:6593a23f011705e8c38b384706bda5b9a730c59e@2026-lectionary.local
+DTSTAMP:20260526T000000Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+SUMMARY:圣灵降临节后第十八主日
+DESCRIPTION:节期：圣灵降临期\n教会年：甲年（马太年）\n
+ 礼仪颜色：绿\n重点经文：\n- 宣召或始礼经文 诗 19:1 绿\
+ n- 经课一(以旧约为主) 出 17:1-7 从磐石所出的水\n- 启应
+ 文(回应经课一) 诗 78:1-4\, 12-16 数算上帝的能力\n- 经课二
+ (以书信为主) 腓 2:1-13 耶稣谦卑顺服以至于死\n- 福音经
+ 课(马太福音为主) 太 21:23-32 上帝权柄的比喻
+CATEGORIES:圣灵降临期\,绿\,甲年（马太年）
+END:VEVENT
+BEGIN:VEVENT
+UID:1c561677e5c379086048fc0c68d006e989d31ebf@2026-lectionary.local
+DTSTAMP:20260526T000000Z
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261005
+SUMMARY:圣灵降临节后第十九主日
+DESCRIPTION:节期：圣灵降临期\n教会年：甲年（马太年）\n
+ 礼仪颜色：绿\n重点经文：\n- 宣召或始礼经文 诗 68:6-7\,3
+ 5 绿\n- 经课一(以旧约为主) 出 20:1-4\,7-9\,12-20 在西乃山颁
+ 布的十诫\n- 启应文(回应经课一) 诗 19 耶和华的律法快活
+ 人心\n- 经课二(以书信为主) 腓 3:4b-14 没有什么可以阻止
+ 认识基督\n- 福音经课(马太福音为主) 太 21:33-46 葡萄园主
+ 人儿子的比喻
+CATEGORIES:圣灵降临期\,绿\,甲年（马太年）
+END:VEVENT
+BEGIN:VEVENT
+UID:be38510c781d15d52e20185141d7cd6c3a78ef4b@2026-lectionary.local
+DTSTAMP:20260526T000000Z
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+SUMMARY:圣灵降临节后第二十主日
+DESCRIPTION:节期：圣灵降临期\n教会年：甲年（马太年）\n
+ 礼仪颜色：绿\n重点经文：\n- 宣召或始礼经文 诗 99:5 绿\
+ n- 经课一(以旧约为主) 出 32:1-14 金牛犊\n- 启应文(回应经
+ 课一) 诗 106:1-6\,19-23 上主对祂子民的良善\n- 经课二(以书
+ 信为主) 腓 4:1-9 在主里常常喜乐\n- 福音经课(马太福音为
+ 主) 太 22:1-14 不受欢迎的宾客的比喻
+CATEGORIES:圣灵降临期\,绿\,甲年（马太年）
+END:VEVENT
+BEGIN:VEVENT
+UID:e3c358f7035647efb1f461d10b2524411ede147f@2026-lectionary.local
+DTSTAMP:20260526T000000Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:圣灵降临节后第二十一主日
+DESCRIPTION:节期：圣灵降临期\n教会年：甲年（马太年）\n
+ 礼仪颜色：绿\n重点经文：\n- 宣召或始礼经文 诗 74:20\,19
+ \,22\,23 绿\n- 经课一(以旧约为主) 出 33:12-23 上帝的荣耀向
+ 摩西显现\n- 启应文(回应经课一) 诗 99 称赞上帝大而可畏
+ 的名\n- 经课二(以书信为主) 帖前 1:1-10 为帖撒罗尼迦的
+ 教会感谢\n- 福音经课(马太福音为主) 太 22:15-22 耶稣关于
+ 统治者的教导
+CATEGORIES:圣灵降临期\,绿\,甲年（马太年）
+END:VEVENT
+BEGIN:VEVENT
+UID:c7410fc8f9469fe76698c78160d443a728b5429a@2026-lectionary.local
+DTSTAMP:20260526T000000Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:圣灵降临节后第二十二主日
+DESCRIPTION:节期：圣灵降临期\n教会年：甲年（马太年）\n
+ 礼仪颜色：绿\n重点经文：\n- 宣召或始礼经文 诗 84:10-11 
+ 绿\n- 经课一(以旧约为主) 申 34:1-12 摩西死在摩押地\n- 启
+ 应文(回应经课一) 诗 90:1-6\,13-17 向你的仆人显出你所做
+ 的工\n- 经课二(以书信为主) 帖前 2:1-8 使徒的担心\n- 福
+ 音经课(马太福音为主) 太 22:34-46 爱上主与爱邻舍
+CATEGORIES:圣灵降临期\,绿\,甲年（马太年）
+END:VEVENT
+BEGIN:VEVENT
+UID:fd5b32ddea01000af981f1bc389cd028350e47c2@2026-lectionary.local
+DTSTAMP:20260526T000000Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:圣灵降临节后第廿三主日
+DESCRIPTION:节期：圣灵降临期\n教会年：甲年（马太年）\n
+ 礼仪颜色：绿\n重点经文：\n- 宣召或始礼经文 弗 2:19 绿\
+ n- 经课一(以旧约为主) 约 3:7-17 进入应许之地\n- 启应文(
+ 回应经课一) 诗 107:1-7\, 33-37 为美好的土地感谢\n- 经课二
+ (以书信为主) 帖前 2:9-13 使徒的教导\n- 福音经课(马太福
+ 音为主) 太 23:1-12 谦卑自己
+CATEGORIES:圣灵降临期\,绿\,甲年（马太年）
+END:VEVENT
+BEGIN:VEVENT
+UID:301238e27816e49e6c6f5dabdb0809db70925c6c@2026-lectionary.local
+DTSTAMP:20260526T000000Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:诸圣(节)主日（非主日节庆）
+DESCRIPTION:节期：圣灵降临期\n教会年：甲年（马太年）\n
+ 礼仪颜色：白\n重点经文：\n- 宣召或始礼经文 弗 2:19 白\
+ n- 经课一(以旧约为主) 启 7:9-17 众人在羔羊面前歌唱\n- 
+ 启应文(回应经课一) 诗 34:1-10\, 22 圣徒们，你们要敬畏上
+ 帝\n- 经课二(以书信为主) 约一 3:1-3 我们是上帝的孩子\n-
+  福音经课(马太福音为主) 太 5:1-12 基督的教导：八福
+CATEGORIES:圣灵降临期\,白\,甲年（马太年）
+END:VEVENT
+BEGIN:VEVENT
+UID:130473c5cf947ed017fa74d77e68d01c5b8a1435@2026-lectionary.local
+DTSTAMP:20260526T000000Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:圣灵降临节后第廿四主日
+DESCRIPTION:节期：圣灵降临期\n教会年：甲年（马太年）\n
+ 礼仪颜色：绿\n重点经文：\n- 宣召或始礼经文 诗 86:1-3 
+ 绿\n- 经课一(以旧约为主) 书 24:1-3a\,14-25 约书亚呼召以色
+ 列服事上帝\n- 启应文(回应经课一) 诗 78:1-7 上帝的能力\n
+ - 经课二(以书信为主) 帖前 4:13-18 复活的应许\n- 福音经
+ 课(马太福音为主) 太 25:1-13 聪明与愚笨的童女
+CATEGORIES:圣灵降临期\,绿\,甲年（马太年）
+END:VEVENT
+BEGIN:VEVENT
+UID:e01fc418049c2faddaefa47089d9d9314fe7fb5f@2026-lectionary.local
+DTSTAMP:20260526T000000Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:圣灵降临节后第廿五主日
+DESCRIPTION:节期：圣灵降临期\n教会年：甲年（马太年）\n
+ 礼仪颜色：绿\n重点经文：\n- 宣召或始礼经文 诗 86:3\,5 
+ 绿\n- 经课一(以旧约为主) 士 4:1-7 士师底波拉\n- 启应文(
+ 回应经课一) 诗 123 向上帝举目\n- 经课二(以书信为主) 帖
+ 前 5:1-11 要儆醒，主的日子要来临\n- 福音经课(马太福音
+ 为主) 太 25:14-30 良善又忠心的仆人
+CATEGORIES:圣灵降临期\,绿\,甲年（马太年）
+END:VEVENT
+BEGIN:VEVENT
+UID:c7b9733e0adea110b5c3660de2c8598ba9cf6c7a@2026-lectionary.local
+DTSTAMP:20260526T000000Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:基督为王主日
+DESCRIPTION:节期：圣灵降临期\n教会年：甲年（马太年）\n
+ 礼仪颜色：白\n重点经文：\n- 宣召或始礼经文 启 5:11-13 
+ 白\n- 经课一(以旧约为主) 结 34:11-16\,20-24 上帝牧养以色
+ 列人\n- 启应文(回应经课一) 诗 100 我们是上帝草场的子
+ 民\n- 经课二(以书信为主) 弗 1:15-23 基督的统管\n- 福音经
+ 课(马太福音为主) 太 25:31-46 分别绵羊与山羊
+CATEGORIES:圣灵降临期\,白\,甲年（马太年）
+END:VEVENT
+BEGIN:VEVENT
+UID:2650873c410536971cc791c36a8879681f6680fd@2026-lectionary.local
+DTSTAMP:20260526T000000Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:将临期第一主日
+DESCRIPTION:节期：将临期\n教会年：乙年\n礼仪颜色：蓝或
+ 紫\n重点经文：\n- 宣召或始礼经文 诗 25:1-3 蓝或紫\n- 经
+ 课一(以旧约为主) 赛 64:1-9 愿你裂天而降\n- 启应文(回应
+ 经课一) 诗 80:1-7\,17-19 我们将会得救\n- 经课二(以书信为
+ 主) 林前 1:3-9 呼召我们与主团契\n- 福音经课(马可福音为
+ 主) 可 13:24-37 人子来临的日子
+CATEGORIES:将临期\,蓝或紫\,乙年
+END:VEVENT
+BEGIN:VEVENT
+UID:44446c7b963b900d066cd63acf18064d908441fb@2026-lectionary.local
+DTSTAMP:20260526T000000Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:将临期第二主日
+DESCRIPTION:节期：将临期\n教会年：乙年\n礼仪颜色：蓝或
+ 紫\n重点经文：\n- 宣召或始礼经文 赛 30:19\,30 蓝或紫\n- 
+ 经课一(以旧约为主) 赛 40:1-11 安慰被掳之民\n- 启应文(回
+ 应经课一) 诗 85:1-2\,8-13 公义与和平\n- 经课二(以书信为
+ 主) 彼后 3:8-15a 等待上主的日子\n- 福音经课(马可福音为
+ 主) 可 1:1-8 施洗约翰到旷野
+CATEGORIES:将临期\,蓝或紫\,乙年
+END:VEVENT
+BEGIN:VEVENT
+UID:aded2f866ccf94a3881a27f9afece3f805d75e60@2026-lectionary.local
+DTSTAMP:20260526T000000Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:将临期第三主日
+DESCRIPTION:节期：将临期\n教会年：乙年\n礼仪颜色：粉红\n
+ 重点经文：\n- 宣召或始礼经文 腓 4:4-5 粉红\n- 经课一(以
+ 旧约为主) 赛 61:1-4\, 8-11 万国发出公义与赞美\n- 启应文(
+ 回应经课一) 诗 126 上主为我们行了大事\n- 或 路1:46b-55 
+ 尊主颂\n- 经课二(以书信为主) 帖前 5:16-24 保守信心直到
+ 主再来\n- 福音经课(马可福音为主) 约 1:6-8\, 19-28 为光作
+ 见证
+CATEGORIES:将临期\,粉红\,乙年
+END:VEVENT
+BEGIN:VEVENT
+UID:993719d47682bac7128376a5034d5f7f0d7eb2c2@2026-lectionary.local
+DTSTAMP:20260526T000000Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:将临期第四主日
+DESCRIPTION:节期：将临期\n教会年：乙年\n礼仪颜色：蓝或
+ 紫\n重点经文：\n- 宣召或始礼经文 赛 45:8 蓝或紫\n- 启应
+ 文(回应经课一) 路 1:46b-55 尊主颂\n- 或 诗89:1-4\,19-26 我要
+ 歌颂你的爱\n- 经课二(以书信为主) 罗 16:25-27 历代以来隐
+ 藏的奥秘\n- 福音经课(马可福音为主) 路 1:26-38 天使报喜
+ 信
+CATEGORIES:将临期\,蓝或紫\,乙年
+END:VEVENT
+BEGIN:VEVENT
+UID:2e621401c817468d5ef1e5cb5c4a87b7e657b7fc@2026-lectionary.local
+DTSTAMP:20260526T000000Z
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+SUMMARY:圣诞夜（非主日节庆）
+DESCRIPTION:节期：圣诞节期\n教会年：乙年\n礼仪颜色：白\n
+ 重点经文：\n- 宣召或始礼经文 诗 2:7B 白\n- 经课一(以旧
+ 约为主) 赛 9:2-7 有一婴孩为我们而生\n- 启应文(回应经课
+ 一) 诗 96:1-13 让全地欢喜快乐\n- 经课二(以书信为主) 多 2
+ :11-14 上帝的恩典已经显明\n- 福音经课(马可福音为主) 路
+  2:1-20 上帝与我们同在
+CATEGORIES:圣诞节期\,白\,乙年
+END:VEVENT
+BEGIN:VEVENT
+UID:5366b1413d89642db379d8d65bf33a7e587612bc@2026-lectionary.local
+DTSTAMP:20260526T000000Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:圣诞日[节]（非主日节庆）
+DESCRIPTION:节期：圣诞节期\n教会年：乙年\n礼仪颜色：白\n
+ 重点经文：\n- 宣召或始礼经文 赛 9:6 白\n- 经课一(以旧
+ 约为主) 赛 52:7-10 宣告上帝的救恩\n- 启应文(回应经课一)
+  诗 98:1-9 全地都要向耶和华欢乐\n- 经课二(以书信为主) 
+ 来 1:1-4(5-12) 在这末世藉著他儿子晓谕我们\n- 福音经课(
+ 马可福音为主) 约 1:1-14 道成了肉身
+CATEGORIES:圣诞节期\,白\,乙年
+END:VEVENT
+BEGIN:VEVENT
+UID:6b2133b4ea841a155685d112f75e0578141d8ea6@2026-lectionary.local
+DTSTAMP:20260526T000000Z
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+SUMMARY:圣诞节后第一主日
+DESCRIPTION:节期：圣诞节期\n教会年：乙年\n礼仪颜色：白\n
+ 重点经文：\n- 宣召或始礼经文 路 2:16 白\n- 经课一(以旧
+ 约为主) 赛 61:10-62:3 披上公义的袍子\n- 启应文(回应经课
+ 一) 诗 148 宣召万有赞美上主\n- 经课二(以书信为主) 加 4:
+ 4-7 成为上主的后嗣\n- 福音经课(马可福音为主) 路 2:22-40 
+ 献上圣子
+CATEGORIES:圣诞节期\,白\,乙年
+END:VEVENT
+END:VCALENDAR
